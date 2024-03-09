@@ -4,9 +4,9 @@ This is growing document that will change as time goes on.
 
 ## Git Rules
 
-- All master branches should be protected from force push as well as direct pushes.
+- All master/main branches should be protected from force push as well as direct pushes.
 
-- Always make PR's with at least one reviewer before merging to master.
+- Always make PR's with at least one reviewer before merging to master/main.
 
 ## Dev process for repos
 
