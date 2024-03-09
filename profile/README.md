@@ -10,7 +10,7 @@ This is growing document that will change as time goes on.
 
 ## Dev process for repos
 
-- We use `miniconda`, `nbdev` and `jupyter lab` for development
+- We use [`miniconda`](https://docs.anaconda.com/free/miniconda/index.html), [`nbdev`](https://nbdev.fast.ai/) and [`jupyter lab`](https://jupyterlab.readthedocs.io/en/latest/) for development
 - After cloning the repository create a virtual environment from `environment.yml`
 - There are two ways of adding code to any repo:
 
